@@ -18,9 +18,9 @@ const NAV_ITEMS = [
 
 // ── Update these URLs with your actual links ──
 const SOCIALS = {
-  github: "https://github.com/", // ← replace with your GitHub profile URL
-  linkedin: "https://linkedin.com/in/", // ← replace with your LinkedIn profile URL
-  email: "mailto:available@request.com",
+  github: "https://github.com/Korirhillary/", // ← replace with your GitHub profile URL
+  linkedin: "https://www.linkedin.com/in/korir-hillary-825926135/", // ← replace with your LinkedIn profile URL
+  email: "mailto:korirhillary67@gmail.com",
 };
 
 const SKILLS = {
@@ -88,8 +88,8 @@ const PROJECTS = [
     ],
     color: "#e8683a",
     image: elimikaImg,
-    liveUrl: "#", // ← replace with live deployment URL
-    githubUrl: "https://github.com/", // ← replace with repo URL
+    liveUrl: "https://elimika.vercel.app/", // ← replace with live deployment URL
+    githubUrl: "https://github.com/NathanSachombe/Elimika-Backend", // ← replace with repo URL
   },
   {
     date: "2024",
@@ -105,8 +105,8 @@ const PROJECTS = [
     ],
     color: "#2a6496",
     image: lmsImg,
-    liveUrl: "#", // ← replace with live deployment URL
-    githubUrl: "https://github.com/", // ← replace with repo URL
+    liveUrl: "https://lms-mu-weld.vercel.app/", // ← replace with live deployment URL
+    githubUrl: "https://github.com/Korirhillary/lms", // ← replace with repo URL
   },
   {
     date: "2024",
@@ -122,8 +122,8 @@ const PROJECTS = [
     ],
     color: "#27ae60",
     image: millImg,
-    liveUrl: "#", // ← replace with live deployment URL
-    githubUrl: "https://github.com/", // ← replace with repo URL
+    liveUrl: "https://e-commerce-frontend-olive-three.vercel.app/", // ← replace with live deployment URL
+    githubUrl: "https://github.com/Antoine-Nchore/e-commerce-frontend", // ← replace with repo URL
   },
 ];
 
